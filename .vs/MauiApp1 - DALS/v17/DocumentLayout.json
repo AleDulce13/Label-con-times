@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\reyna\\OneDrive\\Dulce\\Cuatri 5\\DMM - Miguel\\MauiApp1 - DALS\\",
+  "WorkspaceRootPath": "C:\\Users\\CD03\\Desktop\\ALSD\\DMM\\Label-con-times\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D54534A-9A73-40CE-91B6-CB80A4F21125}|MauiApp1 - DALS\\MauiApp1 - DALS.csproj|c:\\users\\reyna\\onedrive\\dulce\\cuatri 5\\dmm - miguel\\mauiapp1 - dals\\mauiapp1 - dals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8D54534A-9A73-40CE-91B6-CB80A4F21125}|MauiApp1 - DALS\\MauiApp1 - DALS.csproj|c:\\users\\cd03\\desktop\\alsd\\dmm\\label-con-times\\mauiapp1 - dals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8D54534A-9A73-40CE-91B6-CB80A4F21125}|MauiApp1 - DALS\\MauiApp1 - DALS.csproj|solutionrelative:mauiapp1 - dals\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -14,17 +14,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\reyna\\OneDrive\\Dulce\\Cuatri 5\\DMM - Miguel\\MauiApp1 - DALS\\MauiApp1 - DALS\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CD03\\Desktop\\ALSD\\DMM\\Label-con-times\\MauiApp1 - DALS\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp1 - DALS\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\reyna\\OneDrive\\Dulce\\Cuatri 5\\DMM - Miguel\\MauiApp1 - DALS\\MauiApp1 - DALS\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CD03\\Desktop\\ALSD\\DMM\\Label-con-times\\MauiApp1 - DALS\\MainPage.xaml",
               "RelativeToolTip": "MauiApp1 - DALS\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-22T04:35:49.18Z",
               "EditorCaption": ""
